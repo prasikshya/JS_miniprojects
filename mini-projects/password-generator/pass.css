@@ -1,0 +1,35 @@
+
+button{
+    font-size:30px;
+    color:rgb(198, 146, 146);
+    background-color: rgb(40, 12, 124);
+}
+button:hover{
+    background-color:rgb(128, 30, 0);
+}
+button:active{
+    background-color:red;
+}
+p{
+    font-size:25px;
+    color:rgb(80, 243, 5);
+}
+body{
+    background-color:rgb(37, 11, 11);
+    margin-top:80px;
+}
+
+h1{
+    color:white;
+}
+body{
+    text-align:center;
+    padding:20px;
+}
+#manage{
+    border:2px solid white;
+    border-radius:50px;
+    padding:20px;
+    margin:20px;
+    
+}

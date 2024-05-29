@@ -1,0 +1,22 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    text-align:center;
+    background-size:cover;
+    background-image: url("dice.jpg");
+    background-repeat:no-repeat;
+    
+}
+#myButton{
+    font-size: 3cm;
+    padding:5px 25px;
+    border-radius:50px;
+
+}
+.myLabels{
+    font-size:larger;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:brown;
+}
+button:hover{
+    color:red;
+}

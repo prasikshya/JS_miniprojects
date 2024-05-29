@@ -1,0 +1,14 @@
+#myBtn{
+    font-size:2rem;
+    border-radius:50%;
+    background-color:lavendar;
+
+}
+#myBtn:hover{
+    background-color:beige;
+}
+
+#myImg{
+    
+    border:3px solid black;  
+}

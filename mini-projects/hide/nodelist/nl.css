@@ -1,0 +1,10 @@
+.myBtn{
+    font-size:3rem;
+    margin:10px;
+    border:none;
+    border-radius: 5px;
+    padding:10px 15px;
+    background-color: skyblue;
+    color:white;
+    display:flex;
+}
